@@ -1,5 +1,5 @@
 {
-  "name": "@hotswap/hotswap-core",
+  "name": "@hotswapbsc/hotswap-core",
   "description": "Core contracts for the hotswap protocol",
   "version": "0.1.3",
   "homepage": "https://hotswap.link",
